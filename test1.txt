@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A634-2CBE
+
+ Directory of C:\Users\isac\Desktop\MyProject
+
+08/22/2020  12:02 AM    <DIR>          .
+08/22/2020  12:02 AM    <DIR>          ..
+08/22/2020  12:02 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  410,796,711,936 bytes free
